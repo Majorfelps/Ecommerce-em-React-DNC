@@ -6,12 +6,6 @@ import Search from "../../components/Search/Search";
 import ProductsCard from "../../components/ProductCard/ProductCard"
 
 const Home = ({ data }) => {
-  console.log(data);
-  console.log("testando branch home");
-  console.log("testando branch teste");
-  console.log("testando branch teste");
-  console.log("testando branch home");
-  console.log("testando branch home");
   return (
     <div className="home">
       <HeaderMenu />
